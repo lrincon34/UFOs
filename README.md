@@ -26,4 +26,4 @@ The following is an example of the information related to one UFO sighting:
 As you can see, applying filters to the data was a good decision and users will benefit a lot from it. One recommendation I would have, is to add an additional filter for the **duration in minutes ** field. I believe many users would enjoy that. 
 
 ## Final Webpage
-![]()
+![](https://github.com/lrincon34/UFOs/blob/master/static/images/index_html.png)
