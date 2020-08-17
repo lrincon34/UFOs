@@ -10,7 +10,7 @@ Since there are several UFO sightings and each sighting contains a lot of specif
   2. City
   3. State
   4. Country 
-  5. Shape. 
+  5. Shape
 
 ## UFO Sighting Details
 The following is an example of the information related to one UFO sighting:
@@ -19,10 +19,11 @@ The following is an example of the information related to one UFO sighting:
 - **state**: ca
 - **country**: us
 - **shape**: light
-- **durationMinutes**: 13 minutes
+- **duration in minutes**: 13 minutes
 - **comments**: Three bright red lights witnessed floating stationary over San Diego New Years Day 2010
 
 ## Recommendation
-As you can see, applying filters to the data was a good decision and users will benefit a lot from it. One recommendation I would have, is to add an additional filter for the **duration** field. I believe many users would enjoy that. 
+As you can see, applying filters to the data was a good decision and users will benefit a lot from it. One recommendation I would have, is to add an additional filter for the **duration in minutes ** field. I believe many users would enjoy that. 
 
 ## Final Webpage
+![]()
